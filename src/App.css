@@ -1,0 +1,64 @@
+.second {
+background-color:rgb(173, 173, 219);
+height:30vh;
+}
+.run{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.cards1{
+  display: flex;
+  justify-content:space-evenly;
+margin: 50px;
+  }
+
+  .cards2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    
+    }
+ .fancy1{
+margin: 25px;
+ }
+ .sale1{
+  margin: 30px;
+ }
+ .special1{
+  margin: 30px;
+ }
+ .fancy2{
+  margin: 25px;
+   }
+   .sale2{
+    margin: 30px;
+   }
+   .special2{
+    margin: 30px;
+   }
+   .bt1{
+   display: flex;
+   justify-content: center;
+   }
+   .bt2{
+    display: flex;
+    justify-content: center;
+    }
+    .bt3{
+      display: flex;
+      justify-content: center;
+      }
+      .bt4{
+        display: flex;
+        justify-content: center;
+        }
+        .bt5{
+          display: flex;
+          justify-content: center;
+          }
+          .bt6{
+            display: flex;
+            justify-content: center;
+            }      
